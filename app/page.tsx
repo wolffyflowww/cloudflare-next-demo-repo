@@ -7,6 +7,10 @@ const links = [
     href: "https://developers.cloudflare.com/workers/",
     label: "Workers",
   },
+  {
+        href: "https://ryan-portfolio-alpha-ten.vercel.app/",
+        label: "Personal Website",
+  },
 ];
 
 export default function Home() {
